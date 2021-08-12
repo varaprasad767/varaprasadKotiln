@@ -4,6 +4,7 @@ System Requirements
 Before downloading and installing Android Studio, the following requirements are 
 
 essential. ∙ Operating System Version - Microsoft Windows 7/8/10 (32-bit or 64-bit). 
+
 ∙
 Random Access Memory (RAM) - Minimum 4 GB RAM and 8 GB RAM recommended. 
 
