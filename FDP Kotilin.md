@@ -106,7 +106,144 @@ class MainActivity : AppCompatActivity() {
 
 ## Output
 
+
 ![CountApp](https://raw.githubusercontent.com/varaprasad767/varaprasadKotiln/master/countapp.png)
+
+
+## DiceRoleApp
+
+### Activity_main.xml
+
+<?xml version="1.0" encoding="utf-8"?>
+
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    
+    xmlns:tools="http://schemas.android.com/tools"
+    
+    android:layout_width="match_parent"
+    
+    android:layout_height="match_parent"
+    
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/rollTV"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="20dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginBottom="20dp"
+        android:text="1"
+        android:textColor="@color/black"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/rollBTN"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="32dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginRight="16dp"
+        android:text="Roll"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/rollTV" />
+
+    <ImageView
+        android:id="@+id/rollImageView"
+        android:layout_width="249dp"
+        android:layout_height="237dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginBottom="20dp"
+        app:layout_constraintBottom_toTopOf="@+id/rollTV"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/dice_1" />
+</androidx.constraintlayout.widget.ConstraintLayout>
+
+## MainActivity.kt
+
+package com.example.diceroleapp
+
+import androidx.appcompat.app.AppCompatActivity
+import android.os.Bundle
+import android.widget.Button
+import android.widget.ImageView
+import android.widget.TextView
+import org.w3c.dom.Text
+
+class MainActivity : AppCompatActivity() {
+    //1: Initlizers
+    var rollTVObj : TextView? = null
+    var rollBTNObj : Button? = null
+    var rollImageViewObj : ImageView? = null
+
+
+    override fun onCreate(savedInstanceState: Bundle?) {
+        super.onCreate(savedInstanceState)
+        setContentView(R.layout.activity_main)
+
+        //Linking
+        rollTVObj = findViewById(R.id.rollTV);
+        rollBTNObj = findViewById(R.id.rollBTN);
+        rollImageViewObj = findViewById(R.id.rollImageView)
+
+        rollBTNObj!!.setOnClickListener { rollDice() }
+
+    }
+
+    private fun rollDice() {
+
+        val dice = Dice(6)
+        val diceRoll = dice.roll()
+
+        rollTVObj!!.text = diceRoll.toString()
+
+        when(diceRoll){
+            1->rollImageViewObj!!.setImageResource(R.drawable.dice_1)
+            2->rollImageViewObj!!.setImageResource(R.drawable.dice_2)
+            3->rollImageViewObj!!.setImageResource(R.drawable.dice_3)
+            4->rollImageViewObj!!.setImageResource(R.drawable.dice_4)
+            5->rollImageViewObj!!.setImageResource(R.drawable.dice_5)
+            6->rollImageViewObj!!.setImageResource(R.drawable.dice_6)
+
+        }
+    }
+}
+
+//Class for Generate a Random Number Between 1 to 6
+
+class Dice(private val numSide: Int){
+
+    fun roll():Int{
+    
+        return (1..numSide).random();
+    }
+}
+
+
+
+
+## Output
+
+
 
 ![Rolesdice](https://raw.githubusercontent.com/varaprasad767/varaprasadKotiln/master/Rolesdice.png)
 
