@@ -16,3 +16,11 @@ Random Access Memory (RAM) - Minimum 4 GB RAM and 8 GB RAM recommended.
 
 ## Download and Install Android Studio
 
+### Step 1
+
+To download the Android Studio, visit the official Android Studio website in your web browser
+
+### Step 2
+
+Click on the "Download Android Studio" option. 
+
