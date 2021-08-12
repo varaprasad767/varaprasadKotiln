@@ -1,4 +1,4 @@
-## Introduction Android Studio
+# Introduction Android Studio
 System Requirements
 
 Before downloading and installing Android Studio, the following requirements are 
@@ -13,4 +13,6 @@ Random Access Memory (RAM) - Minimum 4 GB RAM and 8 GB RAM recommended.
 ∙ Minimum Required JDK Version - Java Development Kit (JDK) 8. 
 
 ∙ Minimum Screen Resolution - 1280 * 800.resolution 
+
+## Download and Install Android Studio
 
