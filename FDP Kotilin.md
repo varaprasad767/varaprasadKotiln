@@ -58,6 +58,57 @@ Click on the "Download Android Studio" option.
 
 </LinearLayout>
 
+## MainActivity.kt
+
+package com.example.countapp
+
+import androidx.appcompat.app.AppCompatActivity
+
+import android.os.Bundle
+
+import android.view.View
+
+import android.widget.Button
+
+import android.widget.TextView
+
+class MainActivity : AppCompatActivity() {
+
+    //1: Initial Object
+    
+    var btnIncObj: Button? = null
+    
+    var resultTvObj: TextView? = null
+    
+    var counter: Int = 1
+
+
+    override fun onCreate(savedInstanceState: Bundle?) {
+    
+        super.onCreate(savedInstanceState)
+        
+        setContentView(R.layout.activity_main)
+
+
+        //2:Linking UI Components
+        val btnIncObj:Button = findViewById(R.id.btnInc);
+        resultTvObj = findViewById(R.id.resultTV);
+       btnIncObj.setOnClickListener(View.OnClickListener {
+           counter++;
+
+           //Set the Value in Result TV Object
+           resultTvObj!!.text = counter.toString();
+
+       })
+    }
+}
+
+
+
+
+
+
+
 
 
 
