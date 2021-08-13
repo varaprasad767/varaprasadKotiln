@@ -58,7 +58,7 @@ Click on the "Download Android Studio" option.
 
 </LinearLayout>
 
-## MainActivity.kt
+### MainActivity.kt
 
 package com.example.countapp
 
@@ -178,7 +178,7 @@ class MainActivity : AppCompatActivity() {
         app:srcCompat="@drawable/dice_1" />
 </androidx.constraintlayout.widget.ConstraintLayout>
 
-## MainActivity.kt
+### MainActivity.kt
 
 package com.example.diceroleapp
 
