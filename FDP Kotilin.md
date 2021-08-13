@@ -258,6 +258,19 @@ contain child views
 
 can be in a row, column, grid, table, absolute
 
+View subclasses are basic user interface building blocks
+
+Display text (TextView class), edit text (EditText class)
+
+Buttons (Button class), menus, other controls
+
+Scrollable (ScrollView, RecyclerView)
+
+Show images (ImageView)
+
+Group views (ConstraintLayout and LinearLayout)
+
+
 ### Common Layout Classes
 
 1.ConstraintLayout: Connect views with constraints 
