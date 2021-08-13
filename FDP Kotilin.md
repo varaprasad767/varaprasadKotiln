@@ -248,6 +248,31 @@ class Dice(private val numSide: Int){
 ![Rolesdice](https://raw.githubusercontent.com/varaprasad767/varaprasadKotiln/master/Rolesdice.png)
 
 
+## Layouts  Introduction.
+
+### Layouts 
+
+are specific types of ViewGroups (subclasses of ViewGroup)
+
+contain child views
+
+can be in a row, column, grid, table, absolute
+
+### Common Layout Classes
+
+1.ConstraintLayout: Connect views with constraints 
+
+2.LinearLayout: Horizontal or vertical row
+
+3.RelativeLayout: Child views relative to each other
+
+4.TableLayout: Rows and columns
+
+5.FrameLayout: Shows one child of a stack of children
+
+
+
+
 
 
 
