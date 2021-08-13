@@ -283,7 +283,7 @@ Group views (ConstraintLayout and LinearLayout)
 
 5.FrameLayout: Shows one child of a stack of children
 
-![layo](https://github.com/varaprasad767/varaprasadKotiln/blob/master/layo.png)
+![view](https://github.com/varaprasad767/varaprasadKotiln/blob/master/view.png)
 
 
 
