@@ -70,6 +70,11 @@ Click on the "Finish" button to proceed.
 
 ![image8](https://raw.githubusercontent.com/varaprasad767/varaprasadKotiln/master/images%20Software%20install/image8.png)
 
+Now, your Android studio welcome screen will appear on the screen.
+
+![image9](https://raw.githubusercontent.com/varaprasad767/varaprasadKotiln/master/images%20Software%20install/image9.png)
+
+
 ## CountApp
 
 ### Activity_main.xml
