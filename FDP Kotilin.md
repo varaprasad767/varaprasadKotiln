@@ -68,7 +68,7 @@ After the successful completion of the installation, click on the "Next" button.
 
 Click on the "Finish" button to proceed.
 
-[image8](https://raw.githubusercontent.com/varaprasad767/varaprasadKotiln/master/images%20Software%20install/image8.png)
+[image9](https://raw.githubusercontent.com/varaprasad767/varaprasadKotiln/master/images%20Software%20install/image9.png)
 
 ## CountApp
 
