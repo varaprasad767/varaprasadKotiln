@@ -16,21 +16,27 @@ Random Access Memory (RAM) - Minimum 4 GB RAM and 8 GB RAM recommended.
 
 ## Download and Install Android Studio
 
-### Step 1
+#### Step 1
 
 To download the Android Studio, visit the official Android Studio website in your web browser
 
-### Step 2
+#### Step 2
 
 Click on the "Download Android Studio" option. 
 
 ![image1](https://raw.githubusercontent.com/varaprasad767/varaprasadKotiln/master/images%20Software%20install/image1.png)
 
-### Step 3
+#### Step 3
 
 Double click on the downloaded "Android Studio-ide.exe" file.
 
 ![image2](https://raw.githubusercontent.com/varaprasad767/varaprasadKotiln/master/images%20Software%20install/image2.png)
+
+#### Step 4
+
+"Android Studio Setup" will appear on the screen and click "Next" to proceed.
+
+![image3](https://raw.githubusercontent.com/varaprasad767/varaprasadKotiln/master/images%20Software%20install/image3.png)
 
 ## CountApp
 
