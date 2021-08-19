@@ -83,6 +83,14 @@ Android Studio Setup Configuration
 
 ![image10](https://raw.githubusercontent.com/varaprasad767/varaprasadKotiln/master/images%20Software%20install/image10.png)
 
+#### Step 11
+
+Select (check) the "Standard" option if you are a beginner and do not have any idea about
+Android Studio. It will install the most common settings and options for you. Click "Next" to
+proceed.
+
+![image11](https://raw.githubusercontent.com/varaprasad767/varaprasadKotiln/master/images%20Software%20install/image11.png)
+
 
 
 ## CountApp
