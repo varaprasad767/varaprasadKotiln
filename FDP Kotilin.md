@@ -155,6 +155,39 @@ has loaded and you have run the application the dialog below will appear and you
 
 ![image22](https://raw.githubusercontent.com/varaprasad767/varaprasadKotiln/master/images%20Software%20install/image22.png)
 
+7. Finally you should now see your application running in the Android Emulator.
+Notes:
+1. Android Studio can be a bit sensitive with the Emulators. If you find the Emulator isn’t working
+(when it has previously worked) check the task manager and remove any loaded Emulator
+processes. If that doesn’t work try rebooting. This can be an issue in step 7 if you try loading the
+same Emulator twice you will find that it a) doesn’t let you and b) causes ongoing issues until
+you have resolved the conflict (as already mentioned, rebooting helps but is not the most
+efficient).
+2. We suggest launching the Emulator first from the ADV Manager and waiting for the Emulator to
+fully load the device (i.e. homescreen is shown) before trying to run the app on the Emulator. If
+the Emulator has not fully loaded then it will not be shown in the Choose Device screenshot
+shown in step 7 when you try running the app and then it will give you the option to launch the
+Emulator again and this will just result in frustrating Emulator conflict issues.
+
+## Enable USB Debugging
+
+1. Go to [Settings] > [About Phone] and click [Version] / [Build number] for 7 times in a row
+to enter developer mode.
+
+![image22](https://raw.githubusercontent.com/varaprasad767/varaprasadKotiln/master/images%20Software%20install/image22.png)
+
+Go to [Settings] > [Additional Settings] > [Developer Options], you'll be asked to enter a
+code then press Use.
+Toggle to green to enable [Developer Options].To Turn off off Developer options.
+Just press the orange highlight at the topmost part of the homescreen.
+
+![image23](https://raw.githubusercontent.com/varaprasad767/varaprasadKotiln/master/images%20Software%20install/image23.png)
+
+ ### Reconnect your phone to the PC
+ 
+Reconnect your phone to the PC with a cable and click the notification on your phone
+"Transferring Photos via
+
 
 ## CountApp
 
