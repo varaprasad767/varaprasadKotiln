@@ -91,7 +91,12 @@ proceed.
 
 ![image11](https://raw.githubusercontent.com/varaprasad767/varaprasadKotiln/master/images%20Software%20install/image11.png)
 
+#### Step 12
 
+Now, select the user interface theme as you want. (I prefer Dark theme (Dracula) that is most
+liked by the coders). Then, click on the "Next" button.
+
+![image12](https://raw.githubusercontent.com/varaprasad767/varaprasadKotiln/master/images%20Software%20install/image12.png)
 
 ## CountApp
 
