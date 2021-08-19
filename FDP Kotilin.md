@@ -125,6 +125,12 @@ new Android studio project.
 
 ![image17](https://raw.githubusercontent.com/varaprasad767/varaprasadKotiln/master/images%20Software%20install/image17.png)
 
+2. Select “Phone” or “Tablet” as Category and select the device which you want to use to make a
+Virtual Device. Then click on the “Next” button. Note: select a small screen device for better
+emulator performance. Devices with a large screen will have a longer launch time (Nexus 4,
+Nexus 5 etc).
+
+![image18](https://raw.githubusercontent.com/varaprasad767/varaprasadKotiln/master/images%20Software%20install/image18.png)
 
 
 
