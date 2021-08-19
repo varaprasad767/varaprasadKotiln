@@ -32,17 +32,24 @@ Double click on the downloaded "Android Studio-ide.exe" file.
 
 ![image2](https://raw.githubusercontent.com/varaprasad767/varaprasadKotiln/master/images%20Software%20install/image2.png)
 
-#### Step 5
+#### Step 4
 
 "Android Studio Setup" will appear on the screen and click "Next" to proceed.
 
 ![image3](https://raw.githubusercontent.com/varaprasad767/varaprasadKotiln/master/images%20Software%20install/image3.png)
 
-#### Step 4
+#### Step 5
 
 Select the components that you want to install and click on the "Next" button.
 
 ![image4](https://raw.githubusercontent.com/varaprasad767/varaprasadKotiln/master/images%20Software%20install/image4.png)
+
+#### Step 6
+
+Now, browse the location where you want to install the Android Studio and click "Next" to
+proceed.
+
+![image5](https://raw.githubusercontent.com/varaprasad767/varaprasadKotiln/master/images%20Software%20install/image5.png)
 
 ## CountApp
 
