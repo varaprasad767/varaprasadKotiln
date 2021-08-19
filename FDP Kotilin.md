@@ -108,6 +108,14 @@ And, the downloading and installation process of components gets started.
 
 ![image14](https://raw.githubusercontent.com/varaprasad767/varaprasadKotiln/master/images%20Software%20install/image14.png)
 
+#### Step 14
+
+After downloading all the necessary components, click on the "Finish" button.
+
+![image15](https://raw.githubusercontent.com/varaprasad767/varaprasadKotiln/master/images%20Software%20install/image15.png)
+
+
+
 ## CountApp
 
 ### Activity_main.xml
