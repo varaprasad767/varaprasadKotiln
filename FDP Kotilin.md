@@ -58,6 +58,12 @@ proceed.
 
 ![image6](https://raw.githubusercontent.com/varaprasad767/varaprasadKotiln/master/images%20Software%20install/image6.png)
 
+#### Step 8
+
+After the successful completion of the installation, click on the "Next" button.
+
+![image7](https://raw.githubusercontent.com/varaprasad767/varaprasadKotiln/master/images%20Software%20install/image7.png)
+
 ## CountApp
 
 ### Activity_main.xml
