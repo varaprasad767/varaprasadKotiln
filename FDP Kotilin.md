@@ -104,6 +104,10 @@ Now, click on the "Finish" button to download all the SDK components.
 
 ![image13](https://raw.githubusercontent.com/varaprasad767/varaprasadKotiln/master/images%20Software%20install/image13.png)
 
+And, the downloading and installation process of components gets started.
+
+![image14](https://raw.githubusercontent.com/varaprasad767/varaprasadKotiln/master/images%20Software%20install/image14.png)
+
 ## CountApp
 
 ### Activity_main.xml
