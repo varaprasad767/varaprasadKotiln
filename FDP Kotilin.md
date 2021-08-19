@@ -121,6 +121,11 @@ new Android studio project.
 
 ![image16](https://raw.githubusercontent.com/varaprasad767/varaprasadKotiln/master/images%20Software%20install/image16.png)
 
+1. Click on the “Create Virtual Device” button.
+
+![image17](https://raw.githubusercontent.com/varaprasad767/varaprasadKotiln/master/images%20Software%20install/image17.png)
+
+
 
 
 
