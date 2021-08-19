@@ -132,6 +132,11 @@ Nexus 5 etc).
 
 ![image18](https://raw.githubusercontent.com/varaprasad767/varaprasadKotiln/master/images%20Software%20install/image18.png)
 
+3. Select the System Image i.e. the API level of Android OS (KitKat, Lollipop etc). Foxit Quick
+PDF Library for Android requires an API level of 15 or higher.
+
+![image19](https://raw.githubusercontent.com/varaprasad767/varaprasadKotiln/master/images%20Software%20install/image19.png)
+
 
 
 
