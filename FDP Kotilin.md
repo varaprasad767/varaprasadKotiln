@@ -26,6 +26,12 @@ Click on the "Download Android Studio" option.
 
 ![image1](https://raw.githubusercontent.com/varaprasad767/varaprasadKotiln/master/images%20Software%20install/image1.png)
 
+### Step 3
+
+Double click on the downloaded "Android Studio-ide.exe" file.
+
+![image2](https://raw.githubusercontent.com/varaprasad767/varaprasadKotiln/master/images%20Software%20install/image2.png)
+
 ## CountApp
 
 ### Activity_main.xml
