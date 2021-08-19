@@ -144,7 +144,7 @@ according to your requirement from this dialog as well and then click on the “
 
 5. Now you will see the newly created Emulator in the list of available Android Virtual Devices.
 
-[image21](https://raw.githubusercontent.com/varaprasad767/varaprasadKotiln/master/images%20Software%20install/image21.png)
+![image21](https://raw.githubusercontent.com/varaprasad767/varaprasadKotiln/master/images%20Software%20install/image21.png)
 
 6. After launching the Emulator (by double-click on the Emulator option that you want to use as
 show in the screenshot above), wait for the “Home Screen” to load on the Android Virtual
@@ -153,7 +153,7 @@ before you try to run the application otherwise it won’t be recognized by Andr
 will be prompted to launch the Emulator again which can cause issues. Once the Virtual Device
 has loaded and you have run the application the dialog below will appear and you can select the Android device that you wish to use.
 
-[image22](https://raw.githubusercontent.com/varaprasad767/varaprasadKotiln/master/images%20Software%20install/image22.png)
+![image22](https://raw.githubusercontent.com/varaprasad767/varaprasadKotiln/master/images%20Software%20install/image22.png)
 
 
 ## CountApp
