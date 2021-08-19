@@ -74,6 +74,16 @@ Now, your Android studio welcome screen will appear on the screen.
 
 ![image9](https://raw.githubusercontent.com/varaprasad767/varaprasadKotiln/master/images%20Software%20install/image9.png)
 
+Android Studio Setup Configuration
+
+#### Step 10
+
+"Android Studio Setup Wizard" will appear on the screen with the welcome wizard. Click on the
+"Next" button.
+
+![image10](https://raw.githubusercontent.com/varaprasad767/varaprasadKotiln/master/images%20Software%20install/image10.png)
+
+
 
 ## CountApp
 
