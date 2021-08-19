@@ -98,6 +98,12 @@ liked by the coders). Then, click on the "Next" button.
 
 ![image12](https://raw.githubusercontent.com/varaprasad767/varaprasadKotiln/master/images%20Software%20install/image12.png)
 
+#### Step 13
+
+Now, click on the "Finish" button to download all the SDK components.
+
+![image13](https://raw.githubusercontent.com/varaprasad767/varaprasadKotiln/master/images%20Software%20install/image13.png)
+
 ## CountApp
 
 ### Activity_main.xml
