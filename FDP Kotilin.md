@@ -51,6 +51,13 @@ proceed.
 
 ![image5](https://raw.githubusercontent.com/varaprasad767/varaprasadKotiln/master/images%20Software%20install/image5.png)
 
+#### Step 7
+
+Choose a start menu folder for the "Android Studio" shortcut and click the "Install" button to
+proceed.
+
+![image6](https://raw.githubusercontent.com/varaprasad767/varaprasadKotiln/master/images%20Software%20install/image6.png)
+
 ## CountApp
 
 ### Activity_main.xml
