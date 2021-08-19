@@ -32,7 +32,7 @@ Double click on the downloaded "Android Studio-ide.exe" file.
 
 ![image2](https://raw.githubusercontent.com/varaprasad767/varaprasadKotiln/master/images%20Software%20install/image2.png)
 
-#### Step 4
+#### Step 5
 
 "Android Studio Setup" will appear on the screen and click "Next" to proceed.
 
