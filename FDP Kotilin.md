@@ -38,6 +38,12 @@ Double click on the downloaded "Android Studio-ide.exe" file.
 
 ![image3](https://raw.githubusercontent.com/varaprasad767/varaprasadKotiln/master/images%20Software%20install/image3.png)
 
+#### Step 4
+
+Select the components that you want to install and click on the "Next" button.
+
+![image4](https://raw.githubusercontent.com/varaprasad767/varaprasadKotiln/master/images%20Software%20install/image4.png)
+
 ## CountApp
 
 ### Activity_main.xml
