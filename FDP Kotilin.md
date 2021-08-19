@@ -24,7 +24,7 @@ To download the Android Studio, visit the official Android Studio website in you
 
 Click on the "Download Android Studio" option. 
 
-![image1] (https://raw.githubusercontent.com/varaprasad767/varaprasadKotiln/master/images%20Software%20install/image1.png)
+![image1](https://raw.githubusercontent.com/varaprasad767/varaprasadKotiln/master/images%20Software%20install/image1.png)
 
 ## CountApp
 
