@@ -178,10 +178,12 @@ to enter developer mode.
 
 Go to [Settings] > [Additional Settings] > [Developer Options], you'll be asked to enter a
 code then press Use.
+![image24](https://raw.githubusercontent.com/varaprasad767/varaprasadKotiln/master/images%20Software%20install/image24.png)
+
 Toggle to green to enable [Developer Options].To Turn off off Developer options.
 Just press the orange highlight at the topmost part of the homescreen.
 
-![image23](https://raw.githubusercontent.com/varaprasad767/varaprasadKotiln/master/images%20Software%20install/image23.png)
+![image24](https://raw.githubusercontent.com/varaprasad767/varaprasadKotiln/master/images%20Software%20install/image24.png)
 
  ### Reconnect your phone to the PC
  
