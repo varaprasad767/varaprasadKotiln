@@ -114,6 +114,14 @@ After downloading all the necessary components, click on the "Finish" button.
 
 ![image15](https://raw.githubusercontent.com/varaprasad767/varaprasadKotiln/master/images%20Software%20install/image15.png)
 
+Congrats, your Android Studio has been successfully installed in your system and you can start a
+new Android studio project.
+
+### Emulator Creation:
+
+![image16](https://raw.githubusercontent.com/varaprasad767/varaprasadKotiln/master/images%20Software%20install/image16.png)
+
+
 
 
 ## CountApp
