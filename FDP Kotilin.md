@@ -137,6 +137,10 @@ PDF Library for Android requires an API level of 15 or higher.
 
 ![image19](https://raw.githubusercontent.com/varaprasad767/varaprasadKotiln/master/images%20Software%20install/image19.png)
 
+4. Now you will see options to verify the Emulator Settings otherwise you may change the settings
+according to your requirement from this dialog as well and then click on the “Finish” button.
+
+![image20](https://raw.githubusercontent.com/varaprasad767/varaprasadKotiln/master/images%20Software%20install/image20.png)
 
 
 
