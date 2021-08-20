@@ -174,12 +174,10 @@ Emulator again and this will just result in frustrating Emulator conflict issues
 1. Go to [Settings] > [About Phone] and click [Version] / [Build number] for 7 times in a row
 to enter developer mode.
 
-![image22](https://raw.githubusercontent.com/varaprasad767/varaprasadKotiln/master/images%20Software%20install/image22.png)
+![image23](https://raw.githubusercontent.com/varaprasad767/varaprasadKotiln/master/images%20Software%20install/image23.png)
 
 Go to [Settings] > [Additional Settings] > [Developer Options], you'll be asked to enter a
 code then press Use.
-![image23](https://raw.githubusercontent.com/varaprasad767/varaprasadKotiln/master/images%20Software%20install/image23.png)
-
 Toggle to green to enable [Developer Options].To Turn off off Developer options.
 Just press the orange highlight at the topmost part of the homescreen.
 
