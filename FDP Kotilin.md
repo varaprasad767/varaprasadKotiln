@@ -412,7 +412,7 @@ class Dice(private val numSide: Int){
 
 
 
-![Rolesdice](https://raw.githubusercontent.com/varaprasad767/varaprasadKotiln/master/Rolesdice.png)
+![dice1](https://raw.githubusercontent.com/varaprasad767/varaprasadKotiln/master/dice1.png)
 
 
 ## Layouts  Introduction.
