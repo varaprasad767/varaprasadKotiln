@@ -274,7 +274,7 @@ class MainActivity : AppCompatActivity() {
 ## Output
 
 
-![CountApp](https://raw.githubusercontent.com/varaprasad767/varaprasadKotiln/master/countapp.png)
+![count1](https://raw.githubusercontent.com/varaprasad767/varaprasadKotiln/master/count1.png)
 
 
 ## DiceRoleApp
