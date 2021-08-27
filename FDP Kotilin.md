@@ -400,7 +400,7 @@ class Dice(private val numSide: Int){
 
 ## Output
 
-![role]((https://raw.githubusercontent.com/varaprasad767/varaprasadKotiln/master/role.png)
+![role](https://raw.githubusercontent.com/varaprasad767/varaprasadKotiln/master/role.png)
 
 
 
