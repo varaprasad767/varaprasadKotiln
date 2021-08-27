@@ -333,16 +333,25 @@ class MainActivity : AppCompatActivity() {
 package com.example.roleapp
 
 import androidx.appcompat.app.AppCompatActivity
+
 import android.os.Bundle
+
 import android.widget.Button
+
 import android.widget.ImageView
+
 import android.widget.TextView
+
 import android.widget.Toast
+
 import org.w3c.dom.Text
 
 class MainActivity : AppCompatActivity() {
+
     //1: Initlizers
+    
     var rollTVObj : TextView? = null
+    
     var rollBTNObj : Button? = null
 
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -351,6 +360,7 @@ class MainActivity : AppCompatActivity() {
 
         //Linking
         rollTVObj = findViewById(R.id.rollTV);
+        
         rollBTNObj = findViewById(R.id.rollBTN);
 
         rollBTNObj!!.setOnClickListener { rollDice() }
