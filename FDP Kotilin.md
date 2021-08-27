@@ -275,6 +275,122 @@ class MainActivity : AppCompatActivity() {
 ![count1](https://raw.githubusercontent.com/varaprasad767/varaprasadKotiln/master/count1.png)
 
 
+## RoleApp
+
+### Activity_main.xml
+
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+
+    xmlns:tools="http://schemas.android.com/tools"
+
+    android:layout_width="match_parent"
+
+    android:layout_height="match_parent"
+
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/rollTV"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="20dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginBottom="20dp"
+        android:text="1"
+        android:textColor="@color/black"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/rollBTN"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="32dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginRight="16dp"
+        android:text="Roll"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/rollTV" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
+
+### MainActivity.kt
+
+package com.example.roleapp
+
+import androidx.appcompat.app.AppCompatActivity
+import android.os.Bundle
+import android.widget.Button
+import android.widget.ImageView
+import android.widget.TextView
+import android.widget.Toast
+import org.w3c.dom.Text
+
+class MainActivity : AppCompatActivity() {
+    //1: Initlizers
+    var rollTVObj : TextView? = null
+    var rollBTNObj : Button? = null
+
+    override fun onCreate(savedInstanceState: Bundle?) {
+        super.onCreate(savedInstanceState)
+        setContentView(R.layout.activity_main)
+
+        //Linking
+        rollTVObj = findViewById(R.id.rollTV);
+        rollBTNObj = findViewById(R.id.rollBTN);
+
+        rollBTNObj!!.setOnClickListener { rollDice() }
+
+    }
+
+    private fun rollDice() {
+
+        val random=(1..6).random()
+        //val rrrrrrrrrrran=(1..6).random()
+        val  tv : TextView =findViewById(R.id.rollTV)
+        tv.text=random.toString()
+
+        val toast: Toast =Toast.makeText(this,"The Random number generated "+random,Toast.LENGTH_LONG)
+        toast.show()
+
+        rollTVObj!!.text = random.toString()
+
+
+
+    }
+}
+
+
+
+
+//Class for Generate a Random Number Between 1 to 6
+/*
+
+class Dice(private val numSide: Int){
+
+    fun roll():Int{
+
+        return (1..numSide).random.
+    }
+}*/
+
+
+
+
 ## DiceRoleApp
 
 ### Activity_main.xml
