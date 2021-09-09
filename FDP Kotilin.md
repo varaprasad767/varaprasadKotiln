@@ -486,7 +486,9 @@ import org.w3c.dom.Text
 class MainActivity : AppCompatActivity() {
     //1: Initlizers
     var rollTVObj : TextView? = null
+    
     var rollBTNObj : Button? = null
+    
     var rollImageViewObj : ImageView? = null
 
 
